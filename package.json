@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "cypress": "^13.8.0"
+  },
+  "dependencies": {
+    "@bahmutov/cy-api": "^2.2.6"
   }
 }
