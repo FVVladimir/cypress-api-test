@@ -1,5 +1,12 @@
+
 {
-  "name": "Polar Bear",
-  "Country": "USA",
-  "Date of birth": "11.11.2011"
+  "status": "ok",
+  "data": {
+      "userId": 112148,
+      "photoFilename": "default-user.png",
+      "name": "Polar",
+      "lastName": "Bear",
+      "country": "USA",
+      "dateBirth":"11.11.2011"
+  }
 }
